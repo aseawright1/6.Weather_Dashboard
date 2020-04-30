@@ -1,0 +1,46 @@
+html, body {
+    background-color: #31708E;
+    height: 100%;
+}
+
+.container-fluid {
+    text-align: center;
+    color: #F7F9FB;
+    background-color: #31708E;
+    padding: 2rem;
+    /* min-height: 100%; */
+}
+
+.searchbar {
+    color: #31708E;
+    text-align: left;
+    border-radius: 1em;
+    padding: 2rem;
+    background-color: #F7F9FB;
+}
+
+.btn {
+    background-color: #687864;
+    border: none;
+}
+
+#today {
+    background-color: #5085a5;
+    border-radius: 1em;
+    padding: 2rem;
+    color: #5085a5;
+}
+
+#forecast {
+    background-color: #5085a5;
+    border-radius: 1em;
+    padding: 1rem;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.card-body {
+    background-color: rgba(255, 255, 255, 0.349);
+    background: rgba(255, 255, 255, 0.349);
+}
